@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+  <node id="1">
+    <network>A</network>
+    <snpp id="11">
+      <link>
+        <id>1</id>
+        <band>20</band>
+        <length>3</length>
+        <snpp_end>10</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="12">
+      <link>
+        <id>2</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>20</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="13">
+      <link>
+        <id>3</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>30</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+  <node id="2">
+    <network>A</network>
+    <snpp id="21">
+      <link>
+        <id>1</id>
+        <band>5</band>
+        <length>3</length>
+        <snpp_end>40</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="22">
+      <link>
+        <id>2</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>50</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="23">
+      <link>
+        <id>3</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>60</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+  <node id="3">
+    <network>B</network>
+    <snpp id="31">
+      <link>
+        <id>1</id>
+        <band>20</band>
+        <length>3</length>
+        <snpp_end>70</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="32">
+      <link>
+        <id>2</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>80</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="33">
+      <link>
+        <id>3</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>90</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+  <node id="4">
+    <network>A</network>
+    <snpp id="41">
+      <link>
+        <id>1</id>
+        <band>5</band>
+        <length>3</length>
+        <snpp_end>10</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="42">
+      <link>
+        <id>2</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>20</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="43">
+      <link>
+        <id>3</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>30</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+  <node id="5">
+    <network>A</network>
+    <snpp id="51">
+      <link>
+        <id>1</id>
+        <band>20</band>
+        <length>3</length>
+        <snpp_end>40</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="52">
+      <link>
+        <id>2</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>50</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="53">
+      <link>
+        <id>3</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>60</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+  <node id="6">
+    <network>B</network>
+    <snpp id="61">
+      <link>
+        <id>1</id>
+        <band>5</band>
+        <length>3</length>
+        <snpp_end>70</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="62">
+      <link>
+        <id>2</id>
+        <band>10</band>
+        <length>3</length>
+        <snpp_end>80</snpp_end>
+      </link>
+    </snpp>
+
+    <snpp id="63">
+      <link>
+        <id>3</id>
+        <band>15</band>
+        <length>3</length>
+        <snpp_end>90</snpp_end>
+      </link>
+    </snpp>
+  </node>
+
+</config>

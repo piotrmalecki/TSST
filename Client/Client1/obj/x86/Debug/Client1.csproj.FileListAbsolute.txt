@@ -1,0 +1,66 @@
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\bin\Debug\Client1.exe
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\bin\Debug\Client1.pdb
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.exe
+c:\users\piotr\documents\visual studio 2010\Projects\Client1\Client1\obj\x86\Debug\Client1.pdb
+I:\Client1\Client1\obj\x86\Debug\Client1.exe
+I:\Client1\Client1\obj\x86\Debug\Client1.pdb
+I:\Client1\Client1\bin\Debug\Client1.exe
+I:\Client1\Client1\bin\Debug\Client1.pdb
+I:\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+I:\Client1\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+C:\Users\karolina\Desktop\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\karolina\Desktop\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\karolina\Desktop\Client1\Client1\obj\x86\Debug\Client1.pdb
+C:\Users\Piotr\Desktop\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\Piotr\Desktop\Client1\Client1\obj\x86\Debug\Client1.pdb
+I:\Client1\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Client1\Client1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Client1\Client1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.exe
+C:\Users\karolina\Desktop\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.pdb
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.exe
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.pdb
+I:\PROJEKT11\Client1\Client1\bin\Debug\Client1.exe
+I:\PROJEKT11\Client1\Client1\bin\Debug\Client1.pdb
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.Form1.resources
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.csproj.GenerateResource.Cache
+I:\PROJEKT11\Client1\Client1\obj\x86\Debug\Client1.csprojResolveAssemblyReference.cache
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.exe
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.pdb
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\bin\Debug\Client1.exe
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\bin\Debug\Client1.pdb
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.Form1.resources
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\ObsraneTSST\Client1nowy\Client1nowy\Client1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.exe
+I:\Client1nowy\Client1nowy\Client1\obj\x86\Debug\Client1.pdb
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.exe
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.pdb
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.Form1.resources
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.Properties.Resources.resources
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karolina\Desktop\TSST\Client\Client1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karolina\Desktop\TSST\Client\Client1\bin\Debug\Client1.exe
+C:\Users\karolina\Desktop\TSST\Client\Client1\bin\Debug\Client1.pdb
+C:\Users\Piotr\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.exe
+C:\Users\Piotr\Desktop\TSST\Client\Client1\obj\x86\Debug\Client1.pdb

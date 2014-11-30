@@ -1,0 +1,20 @@
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\TSST.ManagementApp.resources
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\TSST.Properties.Resources.resources
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\TSST\TSST\bin\Debug\TSST.exe
+D:\Visual Studio 2010\TSST\TSST\bin\Debug\TSST.pdb
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\TSST.exe
+D:\Visual Studio 2010\TSST\TSST\obj\x86\Debug\TSST.pdb
+D:\Visual Studio 2010\TSST\TSST\bin\Debug\TSST.exe.config
+C:\Users\karolina\Desktop\TSST\TSST\TSST\bin\Debug\TSST.exe.config
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\TSST.exe
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\TSST.pdb
+C:\Users\karolina\Desktop\TSST\TSST\TSST\bin\Debug\TSST.exe
+C:\Users\karolina\Desktop\TSST\TSST\TSST\bin\Debug\TSST.pdb
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\TSST.ManagementApp.resources
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\TSST.Properties.Resources.resources
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karolina\Desktop\TSST\TSST\TSST\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\RootController\RootController\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\RootController\RootController\bin\Debug\RootController.exe
+D:\Visual Studio 2010\RootController\RootController\bin\Debug\RootController.pdb
+D:\Visual Studio 2010\RootController\RootController\obj\x86\Debug\RootController.exe
+D:\Visual Studio 2010\RootController\RootController\obj\x86\Debug\RootController.pdb

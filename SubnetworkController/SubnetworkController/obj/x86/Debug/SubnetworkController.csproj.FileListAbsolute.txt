@@ -1,0 +1,5 @@
+C:\Users\karolina\Desktop\TSST\SubnetworkController\SubnetworkController\bin\Debug\SubnetworkController.exe
+C:\Users\karolina\Desktop\TSST\SubnetworkController\SubnetworkController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\TSST\SubnetworkController\SubnetworkController\bin\Debug\SubnetworkController.pdb
+C:\Users\karolina\Desktop\TSST\SubnetworkController\SubnetworkController\obj\x86\Debug\SubnetworkController.exe
+C:\Users\karolina\Desktop\TSST\SubnetworkController\SubnetworkController\obj\x86\Debug\SubnetworkController.pdb

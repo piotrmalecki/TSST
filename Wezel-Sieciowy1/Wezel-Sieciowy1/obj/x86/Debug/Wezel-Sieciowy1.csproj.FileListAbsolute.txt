@@ -1,0 +1,21 @@
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe.config
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.pdb
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.exe
+C:\Users\BlazQ\documents\visual studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.pdb
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe.config
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.exe
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.pdb
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.pdb
+C:\Users\Blake\Documents\Visual Studio 2010\Projects\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe.config
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.exe
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.pdb
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.pdb
+C:\Users\karolina\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\bin\Debug\Wezel-Sieciowy1.exe.config
+C:\Users\Piotr\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.exe
+C:\Users\Piotr\Desktop\TSST\Wezel-Sieciowy1\Wezel-Sieciowy1\obj\x86\Debug\Wezel-Sieciowy1.pdb

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <node id="a">
+      <link_id>5</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>b</node_end>
+      <snpp>24</snpp>
+      <snpp_end>31</snpp_end>
+    </node>
+
+  <node id="a">
+      <link_id>6</link_id>
+      <band>5</band>
+      <length>50</length>
+      <node_end>b</node_end>
+      <snpp>23</snpp>
+      <snpp_end>43</snpp_end>
+    </node>
+
+  <node id="a">
+      <link_id>7</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>b</node_end>
+      <snpp>63</snpp>
+      <snpp_end>42</snpp_end>
+    </node>
+
+  <node id="b">
+      <link_id>5</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>a</node_end>
+      <snpp>31</snpp>
+      <snpp_end>24</snpp_end>
+    </node>
+
+  <node id="b">
+      <link_id>6</link_id>
+      <band>5</band>
+      <length>50</length>
+    <node_end>a</node_end>
+    <snpp>43</snpp>
+    <snpp_end>23</snpp_end>
+  </node>
+
+
+  <node id="b">
+      <link_id>7</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>a</node_end>
+      <snpp>42</snpp>
+      <snpp_end>63</snpp_end>
+    </node>
+
+</config>

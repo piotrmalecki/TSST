@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+  <network id="a">
+    <node id="w1">
+      <link_id>1</link_id>
+      <band>5</band>
+      <length>100</length>
+      <node_end>w2</node_end>
+    </node>
+
+    <node id="w1">
+      <link_id>2</link_id>
+      <band>10</band>
+      <length>200</length>
+      <node_end>w5</node_end>
+    </node>
+
+    <node id="w1">
+      <link_id>3</link_id>
+      <band>15</band>
+      <length>100</length>
+      <node_end>w6</node_end>
+    </node>
+
+    <node id="w1">
+      <link_id>4</link_id>
+      <band>5</band>
+      <length>60</length>
+      <node_end>k1</node_end>
+    </node>
+
+
+    <node id="w2">
+      <link_id>1</link_id>
+      <band>5</band>
+      <length>100</length>
+      <node_end>w1</node_end>
+    </node>
+
+    <node id="w2">
+      <link_id>8</link_id>
+      <band>20</band>
+      <length>100</length>
+      <node_end>w5</node_end>
+    </node>
+
+    <node id="w2">
+      <link_id>6</link_id>
+      <band>5</band>
+      <length>50</length>
+      <node_end>e</node_end>
+    </node>
+
+    <node id="w2">
+      <link_id>5</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>e</node_end>
+    </node>
+
+    <node id="w5">
+      <link_id>8</link_id>
+      <band>20</band>
+      <length>100</length>
+      <node_end>w2</node_end>
+    </node>
+
+    <node id="w5">
+      <link_id>2</link_id>
+      <band>10</band>
+      <length>200</length>
+      <node_end>w1</node_end>
+    </node>
+
+
+    <node id="w5">
+      <link_id>9</link_id>
+      <band>4</band>
+      <length>100</length>
+      <node_end>w6</node_end>
+    </node>
+
+    <node id="w6">
+      <link_id>9</link_id>
+      <band>4</band>
+      <length>100</length>
+      <node_end>w5</node_end>
+    </node>
+
+    <node id="w6">
+      <link_id>3</link_id>
+      <band>15</band>
+      <length>100</length>
+      <node_end>w1</node_end>
+    </node>
+
+    <node id="w6">
+      <link_id>7</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>e</node_end>
+    </node>
+  </network>
+
+  <network id="b">
+    <node id="w3">
+      <link_id>5</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>e</node_end>
+    </node>
+
+    <node id="w3">
+      <link_id>11</link_id>
+      <band>20</band>
+      <length>400</length>
+      <node_end>w4</node_end>
+    </node>
+
+    <node id="w3">
+      <link_id>12</link_id>
+      <band>5</band>
+      <length>100</length>
+      <node_end>w1</node_end>
+    </node>
+
+
+
+    <node id="w4">
+      <link_id>6</link_id>
+      <band>5</band>
+      <length>50</length>
+      <node_end>e</node_end>
+    </node>
+
+
+
+    <node id="w4">
+      <link_id>7</link_id>
+      <band>30</band>
+      <length>250</length>
+      <node_end>e</node_end>
+    </node>
+
+
+    <node id="w4">
+      <link_id>10</link_id>
+      <band>5</band>
+      <length>60</length>
+      <node_end>k3</node_end>
+    </node>
+
+
+    <node id="w4">
+      <link_id>12</link_id>
+      <band>20</band>
+      <length>400</length>
+      <node_end>w3</node_end>
+    </node>
+
+
+  </network>
+</config>
